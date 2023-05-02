@@ -1,0 +1,112 @@
+[
+    {
+      "id": "chf_001",
+      "name": "Juan Perez",
+      "specialty": "International cuisine",
+      "experience_years": 20,
+      "restaurants": [
+        {
+          "name": "The Foodie's Table",
+          "location": "New York City"
+        },
+        {
+          "name": "Cuisine Fusion",
+          "location": "London"
+        }
+      ],
+      "recipes": [
+        {
+          "name": "Seafood Paella",
+          "category": "Seafood",
+          "difficulty": "Intermediate",
+          "description": "This classic Spanish dish features saffron-infused rice cooked with a variety of seafood such as shrimp, mussels, and calamari. It's garnished with fresh lemon and parsley. To make this dish, heat olive oil in a large skillet and sauté diced onion and garlic until soft. Add diced tomatoes and saffron and cook for a few minutes. Add rice and stir to coat with the tomato mixture. Add chicken broth, white wine, and seasonings and bring to a boil. Reduce heat to low and simmer for about 15 minutes. Add seafood and peas and cook until the seafood is fully cooked. Garnish with fresh lemon wedges and chopped parsley."
+        },
+        {
+          "name": "Chicken Tikka Masala",
+          "category": "Indian",
+          "difficulty": "Intermediate",
+          "description": "This popular Indian dish features tender pieces of marinated chicken cooked in a creamy tomato-based sauce with aromatic spices such as cumin, coriander, and turmeric. It's typically served with basmati rice or naan bread. To make this dish, marinate diced chicken in yogurt, ginger, garlic, and spices for at least an hour. Thread the chicken onto skewers and grill or broil until cooked through. In a separate pan, heat oil and sauté diced onion until soft. Add garlic, ginger, and spices and cook for a minute. Add diced tomatoes and simmer for a few minutes. Add the grilled chicken and cream and simmer for another few minutes. Serve with basmati rice or naan bread."
+        },
+        {
+          "name": "Beef Bourguignon",
+          "category": "French",
+          "difficulty": "Difficult",
+          "description": "This classic French stew features tender beef simmered in red wine with bacon, mushrooms, and pearl onions. It's typically served with crusty bread or mashed potatoes. To make this dish, brown cubed beef in a large pot with oil. Remove the beef and sauté diced onions, carrots, and garlic until soft. Add flour and tomato paste and stir until well combined. Add red wine and beef broth and bring to a boil. Add the browned beef back into the pot along with bacon, mushrooms, and pearl onions. Simmer on low heat for about 2-3 hours, or until the beef is tender. Serve with crusty bread or mashed potatoes."
+        }
+      ]
+    },
+    {
+      "id": "chf_002",
+      "name": "Emma Thompson",
+      "specialty": "British cuisine",
+      "experience_years": 15,
+      "restaurants": [
+        {
+          "name": "The London Diner",
+          "location": "New York City"
+        },
+        {
+          "name": "British Bites",
+          "location": "London"
+        }
+      ],
+      "recipes": [
+        {
+          "name": "Fish and Chips",
+          "category": "British",
+          "difficulty": "Easy",
+          "description": "This classic British dish features crispy battered fish and thick-cut chips, typically served with malt vinegar and tartar sauce. To make this dish, prepare the batter by mixing flour, baking powder, salt, and beer or water. Dip the fish fillets in the batter and fry in hot oil until crispy and golden brown. In a separate pot, fry thick-cut potatoes until crispy and tender. Serve the fish and chips hot with malt vinegar and tartar sauce on the side."
+        },
+        {
+        "name": "Shepherd's Pie",
+        "category": "British",
+        "difficulty": "Intermediate",
+        "description": "This hearty British casserole features ground lamb or beef cooked with vegetables such as onions, carrots, and peas, topped with a layer of mashed potatoes and baked until golden brown. To make this dish, brown ground lamb or beef in a large skillet with diced onions and carrots. Add tomato paste, Worcestershire sauce, and seasonings and simmer until the mixture is thick and fragrant. Stir in frozen peas and transfer the mixture to a baking dish. Top with a layer of mashed potatoes and bake in the oven until the potatoes are golden brown and crispy."
+        },
+        {
+        "name": "Beef Wellington",
+        "category": "British",
+        "difficulty": "Difficult",
+        "description": "This elegant British dish features tender beef tenderloin coated in a layer of pâté and wrapped in puff pastry. It's typically served with a rich mushroom sauce. To make this dish, season a whole beef tenderloin with salt and pepper and sear in a hot skillet until browned on all sides. Spread a layer of pâté over the beef and let cool. Roll out puff pastry and wrap it around the beef, tucking the ends underneath. Brush with egg wash and bake in the oven until the pastry is golden brown and the beef is cooked to your liking. Serve with a rich mushroom sauce made from sautéed mushrooms, shallots, red wine, and beef stock."
+        }
+    ]
+},
+{
+    "id": "chf_003",
+    "name": "John Smith",
+    "specialty": "Grilling",
+    "experience": "10 years",
+    "restaurants": [
+      {
+        "name": "The Grill House",
+        "location": "New York City"
+      },
+      {
+        "name": "The Steakhouse",
+        "location": "Chicago"
+      }
+    ],
+    "recipes": [
+      {
+        "name": "Grilled Salmon",
+        "category": "Seafood",
+        "description": "A delicious and healthy dish made with fresh salmon fillets marinated in a mix of olive oil, lemon juice, garlic, salt, and pepper. Grill the salmon until cooked through and serve with a side of grilled vegetables or a salad."
+      },
+      {
+        "name": "BBQ Ribs",
+        "category": "American Cuisine",
+        "description": "Tender and juicy ribs, slow-cooked on the grill and brushed with a tangy BBQ sauce. To make this dish, season the ribs with a dry rub of salt, pepper, paprika, garlic powder, and brown sugar, and slow-cook them on the grill until the meat is falling off the bone. Brush with a homemade BBQ sauce made with ketchup, apple cider vinegar, Worcestershire sauce, and spices."
+      },
+      {
+        "name": "Grilled Pizza",
+        "category": "Italian Cuisine",
+        "description": "A fun and creative twist on classic pizza, made by grilling a pizza crust and topping it with fresh ingredients. To make this dish, prepare pizza dough and roll it out into a thin crust. Brush with olive oil and grill until lightly browned on both sides. Add your favorite toppings, such as fresh tomato sauce, mozzarella cheese, and fresh basil, and grill until the cheese is melted and bubbly."
+      }
+    ]
+  }
+]
+
+
+    
+  
+
